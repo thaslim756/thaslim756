@@ -24,7 +24,7 @@
 
 🌱 Continuously learning modern analytics tools and industry best practices.
 
-🎯 **Career Goal:**
+<h3>🎯Career Goal</h3>
 
 To become a skilled Data Analyst who delivers data-driven solutions and business insights.
 
